@@ -2,7 +2,7 @@
 ####  A clone of the website for the popular photo app Instagram, 2019
 #### By **{List of contributors}**
 ## Description
-{This is  a clone of the website for the popular photo app Instagram.It has the features of following,unfollowing,liking,unliking and seeing other peoples profiles.
+This is  a clone of the website for the popular photo app Instagram.It has the features of following,unfollowing,liking,unliking and seeing other peoples profiles.
 ## Setup/Installation Requirements
 * git clone
 * to list setup instructions
