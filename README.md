@@ -19,4 +19,4 @@ The languages and tools I used to create this app are:
  If you run into any issues or have questions, ideas or concerns.Contact me or make a contribution to the code.You can access me via my email denisnyamweya813@gmail.com.
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) 2019 **Dennis Nyamweya**
