@@ -1,10 +1,10 @@
 # Instagram Django Clone
-#### {Brief description of application}, {Date of current version}
+####  A clone of the website for the popular photo app Instagram, 2019
 #### By **{List of contributors}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This is  a clone of the website for the popular photo app Instagram.It has the features of following,unfollowing,liking,unliking and seeing other peoples profiles.
 ## Setup/Installation Requirements
-* This is a great place
+* git clone
 * to list setup instructions
 * in a simple
 * easy-to-understand
